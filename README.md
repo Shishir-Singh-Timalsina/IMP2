@@ -1,4 +1,3 @@
 # IMP2
 
-
-Git
+Lab number 2
